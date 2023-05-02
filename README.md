@@ -1,4 +1,6 @@
 # Bienvenue sur mon profil GitHub !
+Je suis Kévin LEDEZ, En reconversion professionnelle et actuellement en formation en Développement Web et Web Mobile chez Simplon.co.
+
 ## Quelques stats :
 ![Mes statistiques](https://github-readme-stats.vercel.app/api?username=kevin-ledez&show_icons=true&theme=gruvbox&count_private=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-ledez&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
