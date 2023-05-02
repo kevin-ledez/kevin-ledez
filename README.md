@@ -1,4 +1,7 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub !
+## Quelques stats :
+![Mes statistiques](https://github-readme-stats.vercel.app/api?username=Fonkio&show_icons=true&theme=tokyonight&count_private=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fonkio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kevin-ledez/kevin-ledez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
