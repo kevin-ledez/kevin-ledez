@@ -1,5 +1,5 @@
 # Bienvenue sur mon profil GitHub !
-Je suis Kévin LEDEZ, En reconversion professionnelle et actuellement en formation en Développement Web et Web Mobile chez Simplon.co.
+🌱 Je suis Kévin LEDEZ, En reconversion professionnelle et actuellement en formation en Développement Web et Web Mobile chez Simplon.co.
 
 ## Quelques stats :
 ![Mes statistiques](https://github-readme-stats.vercel.app/api?username=kevin-ledez&show_icons=true&count_private=true)<br>
