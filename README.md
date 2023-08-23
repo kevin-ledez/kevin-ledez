@@ -2,10 +2,6 @@
 🍀Je suis Kévin LEDEZ, <br>
 👉En reconversion professionnelle et actuellement en formation en Développement Web et Web Mobile chez Simplon.co.
 
-## Quelques stats :
-![Mes statistiques](https://github-readme-stats.vercel.app/api?username=kevin-ledez&show_icons=true&count_private=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-ledez)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Langages et outils :
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
